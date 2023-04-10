@@ -4,4 +4,4 @@ description=Playing around with the playdate sdk
 bundleID=com.domain.time-flies
 version=1.0
 imagePath=SystemAssets/
-buildNumber=11
+buildNumber=58
